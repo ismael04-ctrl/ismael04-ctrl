@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ef2ff,50:9b7bff,100:ff5fa2&height=190&section=header&text=Ismael%20Amador&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20web%20full-stack%20%C2%B7%20Big%20Data%20%26%20IA&descSize=18&descAlignY=58" width="100%" alt="Ismael Amador" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ef2ff,50:9b7bff,100:ff5fa2&height=190&section=header&text=Ismael%20Amador&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20web%20full-stack%20%C2%B7%20Big%20Data%20e%20IA&descSize=18&descAlignY=58" width="100%" alt="Ismael Amador" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=5EF2FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Ismael+%F0%9F%91%8B;T%C3%A9cnico+Superior+en+Desarrollo+de+Aplicaciones+Web;Vue+%C2%B7+Laravel+%C2%B7+MySQL+%C2%B7+Python;Ahora+aprendiendo+Big+Data+e+Inteligencia+Artificial" alt="Typing SVG" />
